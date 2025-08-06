@@ -1,0 +1,28 @@
+1. 
+2. 
+3. POS tags became thebasis fordescriptions of which languages?
+4. 
+5. 
+6. 
+7. 
+8. «
+9. 
+10. 
+11. 
+12. «
+13. 
+14. «
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+21. 
+22. 
+23. e HMM for POS PropNounJohnMaryAliceJerryTomNouncat dog car penbed apple Detathethethatathea V erbbit atesaw played hit0.950.9 gave0.05stop0.50.1 0.8 0.10.1 0.250.25 start0.10.50.4 38Sample HMM Generation
+24. 
+25. 
+26. 
+27. 
+28. 

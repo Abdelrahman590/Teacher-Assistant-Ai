@@ -1,0 +1,23 @@
+1. What is a part of speech?
+2. What are parts of speech in Arabic?
+3. What are the three parts of speech?
+4. What are the parts of speech?
+5. Why did John decide to take the saw?
+6. What is the difference between closed and open class?
+7. What can be a preposition, particle, or adverb?
+8. What is the average POS tagging disagreement amongst expert human judges for the Penn treebank?
+9. What is the baseline of an initial automated tagger?
+10. What is the ximum Entropy Markov Model (MEMM), Conditional Random Field (CRF) , and Transformation Based Learning (TBL)?
+11. What are the standard learning methods for this task?
+12. What is the text mainly about?
+13. What year was Michael Dell born?
+14. What was John's Toyota Prius?
+15. What is the best way to label genetic sequences in genome analysis?
+16. What is the difference between the two standard models?
+17. What are the characteristics of the Hidden Markov Model?
+18. What is a probabilistic transition between states over time?
+19. What is the name of the erbbit atesaw that John Mary Alice Jerry Tom played?
+20. What is the name of the generation where the bit start is 0.10.50.4?
+21. What is the name of the dog thatathea V erbbit atesaw played hit0.950.9 gave0.05stop0.50.1 0.8 0.10.1 0.250.25 John bit start0.10.50.4 44Sample HMM Generation PropNounJohnMaryAliceJerryTomNouncat dog car penbed apple Detathethethatathea V erbbit atesaw played hit0.950.9 gave0.05stop0.50.1 0.8 0.10.1 0.250.25 John bit thestart0.10.50.4 45Sample HMM Generation PropNounJohnMaryAliceJerryTomNouncat dog car penbed apple Detathethethatathea V erbb
+22. What did John do to the apple?
+23. What is the minimum amount of time it takes for an apple to start?

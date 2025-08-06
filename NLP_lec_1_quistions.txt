@@ -1,0 +1,12 @@
+1. What are the basic NLP topics?
+2. What is the text mainly about?
+3. What is the text mainly about?
+4. What is the process of computer analysis of input provided in a human language (natural language), and conversion of this input into a useful form of representation?
+5. What system can be used to process written text?
+6. What is the difference between NL and NL?
+7. What is the difference between a human and a computer?
+8. What is the meaning, and how do words and sentences acquire it?
+9. What is SNLP?
+10. What are the basic theories of natural language processing?
+11. How to represent meaning?
+12. What are NLP tasks?
