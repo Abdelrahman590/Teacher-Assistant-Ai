@@ -61,17 +61,4 @@ streamlit run teach_analysis.py
 - أي اقتراح أو تعديل مرحب به!
 - افتح Issue أو Pull Request حسب الحاجة.
 
-## 📞 الدعم
 
-لو عندك أي استفسار أو واجهتك مشكلة، راسلني عبر GitHub أو في Issues الريبو، وهرد عليك في أسرع وقت.
-
-**برمجة: [اسمك أو حسابك على جيتهب]**
-
-موجه خصيصًا لدعم العملية التعليمية وتوفير وقت ومجهود المعلمين والمعلمات ❤️
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/78692958/c9908502-25ea-40fb-abce-95f536e9149a/teach_analysis.py
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/78692958/596764d0-d10b-4ace-89ea-8c6f7fe80d77/analysis_en.py
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/78692958/e22ab1e7-d263-4a29-8f4b-5536dd62af9d/generated_questions-1.txt
-[4] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/78692958/642f2aaa-893d-4037-b076-618dc24c8b52/generated_questions-2.txt
-[5] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/78692958/ee7253bb-0b65-488d-8e0b-ac03b4010f2c/generated_questions.txt
-[6] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/78692958/6ffc560a-1287-4653-ae38-d0847d0861e1/NLP_lec_1_quistions.txt
